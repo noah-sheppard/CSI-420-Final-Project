@@ -1,4 +1,4 @@
-# CSI-275 Final Project — Threaded TCP Chat
+# CSI-420 Final Project — Refactored Threaded TCP Chat
 
 **Author:** Noah Sheppard  
 **Class:** CSI-275-01  
