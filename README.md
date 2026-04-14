@@ -1,7 +1,7 @@
 # CSI-420 Final Project — Refactored Threaded TCP Chat
 
 **Author:** Noah Sheppard  
-**Class:** CSI-275-01  
+**Class:** CSI-420-01  
 
 ---
 
